@@ -2,6 +2,11 @@
 
 Bem-vindo ao repositório do **AutoDrive**, uma plataforma moderna e intuitiva para a exibição e comercialização de veículos novos de diversas marcas e categorias. O projeto foi desenvolvido com foco em alta performance, excelente experiência do usuário (UX) e facilidade na navegação e gerenciamento do catálogo de veículos.
 
+## Demonstração
+
+https://github.com/user-attachments/assets/2f105242-0c10-46e2-8b4f-291c71fdd31b
+
+
 ## 📋 Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
@@ -10,7 +15,6 @@ Bem-vindo ao repositório do **AutoDrive**, uma plataforma moderna e intuitiva p
 - [Arquitetura e Uso dos Recursos](#-arquitetura-e-uso-dos-recursos)
 - [Como Executar o Projeto](#-como-executar-o-projeto)
 - [Contribuição](#-contribuição)
-- [Licença](#-licença)
 
 ## 🎯 Sobre o Projeto
 
@@ -125,9 +129,3 @@ Contribuições são sempre bem-vindas! Se você deseja melhorar este projeto:
 4. Faça push para a branch: `git push origin feature/MinhaNovaFeature`.
 5. Abra um **Pull Request**.
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 👋 Entre em contato!
