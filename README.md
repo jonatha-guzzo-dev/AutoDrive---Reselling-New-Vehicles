@@ -4,7 +4,9 @@ Bem-vindo ao repositório do **AutoDrive**, uma plataforma moderna e intuitiva p
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/2f105242-0c10-46e2-8b4f-291c71fdd31b
+
+https://github.com/user-attachments/assets/f67256ee-c153-4a31-b1e5-8fa700086879
+
 
 
 ## 📋 Sumário
