@@ -53,7 +53,6 @@ O projeto utiliza uma stack robusta e moderna para aplicações web full-stack:
 
 ### Banco de Dados & Ferramentas
 - **MySQL / PostgreSQL:** Banco de dados relacional para persistência do catálogo e propostas.
-- **Composer & Node.js/NPM:** Gerenciadores de dependências para o backend e compilação de assets (Vite/Mix).
 - **Git & GitHub:** Controle de versão.
 
 ## ⚙️ Arquitetura e Uso dos Recursos
